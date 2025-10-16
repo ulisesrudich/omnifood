@@ -9,6 +9,6 @@ https://omnifood-ur.netlify.app/
 
 ## 📬 Contact
 
-Ulises Rudich  
+**Ulises Rudich**  
 ✉️ ulises.r@hotmail.com  
 💼 https://www.linkedin.com/in/ulisesrudich/  
