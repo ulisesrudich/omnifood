@@ -6,3 +6,9 @@ This fictional service provides personalized meal delivery every day of the year
 ## 🔴 Live Demo
 
 https://omnifood-ur.netlify.app/
+
+## 📬 Contact
+
+Ulises Rudich
+✉️ ulises.r@hotmail.com
+💼 https://www.linkedin.com/in/ulisesrudich/
